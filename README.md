@@ -8,55 +8,43 @@
 
 ---
 
-## 📊 Le Mie Statistiche
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Giollaccio-exe&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-## 🗂️ Linguaggi Più Usati
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giollaccio-exe&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-## 🔥 Streak di Contribuzioni
-
-<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Giollaccio-exe&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giollaccio-exe&layout=compact&theme=tokyonight" alt="Top Languages" width="300" />
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Giollaccio-exe&theme=tokyonight" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=Giollaccio-exe&theme=tokyonight" alt="GitHub Streak" width="300" />
   </a>
 </p>
 
 ---
-
-## 🎧 Spotify Attuale
 
 <p align="center">
   <a href="https://open.spotify.com/user/tuo-username">
-    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Attuale" />
+    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Attuale" width="300" />
+  </a>
+  <a href="https://github.com/Giollaccio-exe/Code-in-C">
+    <img src="https://img.shields.io/badge/Code%20in%20C-%2300599C?style=for-the-badge&logo=c&logoColor=white" alt="Code-in-C Repository" width="300" />
   </a>
 </p>
 
 ---
-
-## 📂 Repository in Evidenza
-
-<p align="center">
-  <a href="https://github.com/Giollaccio-exe/Giollaccio-exe">
-    <img src="https://img.shields.io/badge/Esercizi%20in%20C-%2300599C?style=for-the-badge&logo=c&logoColor=white" alt="C Exercises Badge" />
-  </a>
-</p>
-
----
-
-## 📬 Contatti
 
 <p align="center">
   <a href="mailto:giorgioagullilavoro@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="200" />
   </a>
   <a href="https://github.com/Giollaccio-exe">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="200" />
+  </a>
+  <a href="https://www.linkedin.com/in/tuo-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="200" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://visitor-badge.glitch.me/badge?page_id=Giollaccio-exe.Giollaccio-exe">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=Giollaccio-exe.Giollaccio-exe" alt="Visitor Badge" />
   </a>
 </p>
