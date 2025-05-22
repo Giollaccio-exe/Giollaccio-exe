@@ -13,7 +13,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/kittinan/spotify-github-profile">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=n5gs7y94ghzvs1mtcrd5wj9dw&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" />
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31duuxvigvzzw2fp3pnuyt3ro36q&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" />
       </a>
     </td>
     <td align="center">
@@ -29,37 +29,4 @@
 ### 🧠 Tecnologie che uso
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,git,github,linux,vscode" alt="Skills" />
-</p>
-
----
-
-### 🚀 Cosa sto facendo
-
-- 📚 Studio Ingegneria Informatica all'Università degli Studi di Perugia  
-- 🧪 Esercizi e progetti in C nella repo 👉 [`Code-in-C`](https://github.com/Giollaccio-exe/Code-in-C)  
-- 🔧 Sperimentazione con algoritmi e strutture dati  
-- 💡 Interesse crescente per sviluppo low-level e sistemi
-
----
-
-### 📫 Contattami
-
-<p align="center">
-  <a href="mailto:giorgioagullilavoro@gmail.com">📧 Email</a> •
-  <a href="https://github.com/Giollaccio-exe">🐙 GitHub</a>
-</p>
-
----
-
-### ✨ Curiosità
-
-- 🎧 Non programmo mai senza musica di sottofondo  
-- 🛠️ Mi piace costruire strumenti utili e modulari  
-- 🤝 Credo nella condivisione del sapere e nell’open-source  
-
----
-
-<p align="center">
-  <sub>Made with ❤️ by Giorgio Agulli</sub>
-</p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,pytho
