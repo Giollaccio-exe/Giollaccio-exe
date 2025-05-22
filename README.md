@@ -1,7 +1,7 @@
 <h1 align="center">👋 Ciao, sono Giorgio Agulli</h1>
 <p align="center"><em>💻 Developer • 🎧 Music Lover • 📚 Studente di Ingegneria Informatica</em></p>
 
-<p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Giollaccio-exe&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
