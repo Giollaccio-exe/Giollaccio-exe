@@ -30,6 +30,16 @@
 
 ---
 
+## 🎧 Spotify Attuale
+
+<p align="center">
+  <a href="https://open.spotify.com/user/tuo-username">
+    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Attuale" />
+  </a>
+</p>
+
+---
+
 ## 📂 Repository in evidenza
 
 <p align="center">
