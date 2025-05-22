@@ -1,44 +1,65 @@
-<h1>👋 Ciao, sono Giollaccio-exe</h1>
+<h1 align="center">👋 Ciao, sono Giorgio Agulli</h1>
+<p align="center"><em>💻 Developer • 🎧 Music Lover • 📚 Studente di Ingegneria Informatica</em></p>
 
-<p>
-🎓 Studente di Ingegneria Informatica – Università degli Studi di Perugia  
-💻 Appassionato di C, algoritmi e sistemi  
-🚀 In continua esplorazione del mondo del coding
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Giollaccio-exe&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<table>
+---
+
+### 🎧 In ascolto ora e 📊 Le mie statistiche
+
+<table align="center">
   <tr>
-    <td width="60%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Giollaccio-exe&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="100%" />
+    <td align="center">
+      <a href="https://github.com/kittinan/spotify-github-profile">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=n5gs7y94ghzvs1mtcrd5wj9dw&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" />
+      </a>
     </td>
-    <td width="40%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giollaccio-exe&layout=compact&theme=tokyonight" alt="Top Languages" width="90%" />
-      <br /><br />
-      <img src="https://streak-stats.demolab.com/?user=Giollaccio-exe&theme=tokyonight" alt="GitHub Streak" width="90%" />
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Giollaccio-exe&show_icons=true&theme=radical&border_radius=10&hide_title=true" alt="GitHub Stats" />
+      <br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Giollaccio-exe&theme=radical&hide_border=true" alt="GitHub Streak"/>
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://open.spotify.com/user/tuo-username">
-    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Attuale" width="450" />
-  </a>
-</p>
+---
+
+### 🧠 Tecnologie che uso
 
 <p align="center">
-  <a href="https://github.com/Giollaccio-exe/Code-in-C">
-    <img src="https://img.shields.io/badge/Code%20in%20C-%2300599C?style=for-the-badge&logo=c&logoColor=white" alt="Code-in-C Repository" width="200" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,git,github,linux,vscode" alt="Skills" />
 </p>
 
+---
+
+### 🚀 Cosa sto facendo
+
+- 📚 Studio Ingegneria Informatica all'Università degli Studi di Perugia  
+- 🧪 Esercizi e progetti in C nella repo 👉 [`Code-in-C`](https://github.com/Giollaccio-exe/Code-in-C)  
+- 🔧 Sperimentazione con algoritmi e strutture dati  
+- 💡 Interesse crescente per sviluppo low-level e sistemi
+
+---
+
+### 📫 Contattami
+
 <p align="center">
-  <a href="mailto:giorgioagullilavoro@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="140" />
-  </a>
-  <a href="https://github.com/Giollaccio-exe">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="140" />
-  </a>
-  <a href="https://visitor-badge.glitch.me/badge?page_id=Giollaccio-exe.Giollaccio-exe">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=Giollaccio-exe.Giollaccio-exe" alt="Visitor Badge" width="140" />
-  </a>
+  <a href="mailto:giorgioagullilavoro@gmail.com">📧 Email</a> •
+  <a href="https://github.com/Giollaccio-exe">🐙 GitHub</a>
+</p>
+
+---
+
+### ✨ Curiosità
+
+- 🎧 Non programmo mai senza musica di sottofondo  
+- 🛠️ Mi piace costruire strumenti utili e modulari  
+- 🤝 Credo nella condivisione del sapere e nell’open-source  
+
+---
+
+<p align="center">
+  <sub>Made with ❤️ by Giorgio Agulli</sub>
 </p>
