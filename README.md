@@ -8,10 +8,19 @@
 
 ---
 
+## 📊 Le Mie Statistiche
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Giollaccio-exe&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+## 🗂️ Linguaggi Più Usati
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giollaccio-exe&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+## 🔥 Streak di Contribuzioni
 
 <p align="center">
   <a href="https://git.io/streak-stats">
@@ -19,11 +28,19 @@
   </a>
 </p>
 
+---
+
+## 🎧 Spotify Attuale
+
 <p align="center">
   <a href="https://open.spotify.com/user/tuo-username">
     <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Attuale" />
   </a>
 </p>
+
+---
+
+## 📂 Repository in Evidenza
 
 <p align="center">
   <a href="https://github.com/Giollaccio-exe/Giollaccio-exe">
@@ -32,6 +49,8 @@
 </p>
 
 ---
+
+## 📬 Contatti
 
 <p align="center">
   <a href="mailto:giorgioagullilavoro@gmail.com">
