@@ -11,20 +11,22 @@
 ## 📊 Statistiche GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Giollaccio-exe&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Giollaccio-exe&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
+## 🗂️ Linguaggi più usati
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giollaccio-exe&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giollaccio-exe&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-## 🔥 Streak
+## 🔥 Streak di Contribuzioni
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Giollaccio-exe&theme=radical" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=Giollaccio-exe&theme=tokyonight" alt="GitHub Streak" />
   </a>
 </p>
 
