@@ -7,17 +7,26 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Giollaccio-exe&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="300" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giollaccio-exe&layout=compact&theme=tokyonight" alt="Top Languages" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Giollaccio-exe&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giollaccio-exe&layout=compact&theme=tokyonight" alt="Top Languages" width="400" />
+</p>
+
+<p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Giollaccio-exe&theme=tokyonight" alt="GitHub Streak" width="300" />
+    <img src="https://streak-stats.demolab.com/?user=Giollaccio-exe&theme=tokyonight" alt="GitHub Streak" width="400" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://open.spotify.com/user/tuo-username">
-    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Attuale" width="300" />
+    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Attuale" width="450" />
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/Giollaccio-exe/Code-in-C">
     <img src="https://img.shields.io/badge/Code%20in%20C-%2300599C?style=for-the-badge&logo=c&logoColor=white" alt="Code-in-C Repository" width="300" />
   </a>
@@ -37,6 +46,6 @@
 
 <p align="center">
   <a href="https://visitor-badge.glitch.me/badge?page_id=Giollaccio-exe.Giollaccio-exe">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=Giollaccio-exe.Giollaccio-exe" alt="Visitor Badge" />
+    <img src="https://visitor-badge.glitch.me/badge?page_id=Giollaccio-exe.Giollaccio-exe" alt="Visitor Badge" width="200" />
   </a>
 </p>
