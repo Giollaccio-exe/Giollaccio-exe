@@ -7,7 +7,7 @@
 
 ### 🧠 Tecnologie che uso
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,html,css" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=c,java,html,css,js" alt="Skills" />
 </p>
 
 ---
